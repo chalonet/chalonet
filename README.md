@@ -1,6 +1,6 @@
 
 <img  src="/logo1.png">
-# Hello! I'm David Tomàs :wave:
+## Hello! I'm David Tomàs :wave:
 
 I am a Software Engineer and Tech Consultant with a passion for creating innovative solutions and delivering exceptional user experiences. My expertise lies in frontend development, DevOps practices, and software architecture. I thrive in collaborative environments and am dedicated to continuous improvement and learning.
 
