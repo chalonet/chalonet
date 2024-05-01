@@ -80,7 +80,7 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
     <a href="https://www.facebook.com/david.t.tomasverges"> 
         <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/facebook__socialnetwork_17730.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
-    <a href="www.linkedin.com/in/davidtomasverges"> 
+    <a href="https://www.linkedin.com/in/davidtomasverges"> 
         <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/linkedin_socialnetwork_17757.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
 </p>
