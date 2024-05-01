@@ -32,6 +32,7 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 </div>
 	
 ## GitHub Stats and Most Used Languages
+
 <div align="center">
 <picture>
 <source
@@ -58,7 +59,8 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 </picture>
 </div>
 
-### Certifications
+## Certifications
+
 <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019.png"/> Microsoft Office Specialist: Excel Associate (Office 2019)
 
 <img src="https://img.icons8.com/color/24/000000/microsoft-powerpoint-2019.png"/> Microsoft Office Specialist: PowerPoint Associate (Office 2019)
@@ -69,7 +71,8 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 
 <img src="https://img.icons8.com/color/24/000000/linux.png"/> Linux Essentials
 
-### Support
+## Support
+
 <p>
     <a href="mailto:aldrove98@gmail.com"> 
         <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/email_socialnetwork_17726.png" height="50" width="50" alt="aldrove98@gmail.com" />
