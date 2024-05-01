@@ -73,4 +73,4 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 www.linkedin.com/in/davidtomasverges
 
 ### Support
-<p><a href="mailto:aldrove98@gmail.com"> <img align="left" src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/gmail_logo_icon_170544.png](https://cdn.icon-icons.com/icons2/161/PNG/256/mail_gmail_22737.png)" height="50" width="50" alt="aldrove98@gmail.com" /></a></p><br><br>
+<p><a href="mailto:aldrove98@gmail.com"> <img align="left" src="https://cdn.icon-icons.com/icons2/161/PNG/256/mail_gmail_22737.png" height="50" width="50" alt="aldrove98@gmail.com" /></a></p><br><br>
