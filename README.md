@@ -61,8 +61,6 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 ### Certifications
 <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019.png"/> Microsoft Office Specialist: Excel Associate (Office 2019)
 
-<img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019.png"/> Microsoft Office Specialist: Expert (Office 2019)
-
 <img src="https://img.icons8.com/color/24/000000/microsoft-powerpoint-2019.png"/> Microsoft Office Specialist: PowerPoint Associate (Office 2019)
 
 <img src="https://img.icons8.com/color/24/000000/microsoft-word-2019.png"/> Microsoft Office Specialist: Word Associate (Office 2019)
