@@ -74,3 +74,5 @@ www.linkedin.com/in/davidtomasverges
 
 ### Support
 <p><a href="mailto:aldrove98@gmail.com"> <img align="left" src="https://cdn.icon-icons.com/icons2/161/PNG/256/mail_gmail_22737.png" height="50" width="50" alt="aldrove98@gmail.com" /></a></p><br><br>
+
+<p><a href="https://www.instagram.com/daviidtomaas/"> <img align="left" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" height="50" width="50" alt="aldrove98@gmail.com" /></a></p><br><br>
