@@ -78,7 +78,13 @@ www.linkedin.com/in/davidtomasverges
         <img align="left" src="https://cdn.icon-icons.com/icons2/161/PNG/256/mail_gmail_22737.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
     <a href="https://www.instagram.com/daviidtomaas/"> 
-        <img align="left" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" height="50" width="50" alt="aldrove98@gmail.com" />
+        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/social_instagram_1783.png" height="50" width="50" alt="aldrove98@gmail.com" />
+    </a>
+    <a href="https://www.instagram.com/daviidtomaas/"> 
+        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/social_facebook_1786.png" height="50" width="50" alt="aldrove98@gmail.com" />
+    </a>
+    <a href="https://www.instagram.com/daviidtomaas/"> 
+        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/sociallinkedin_member_1782.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
 </p>
 <br><br>
