@@ -69,22 +69,19 @@ I am a Software Engineer and Tech Consultant with a passion for creating innovat
 
 <img src="https://img.icons8.com/color/24/000000/linux.png"/> Linux Essentials
 
-### LinkedIn
-www.linkedin.com/in/davidtomasverges
-
 ### Soporte
 <p>
     <a href="mailto:aldrove98@gmail.com"> 
-        <img align="left" src="https://cdn.icon-icons.com/icons2/161/PNG/256/mail_gmail_22737.png" height="50" width="50" alt="aldrove98@gmail.com" />
+        <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/email_socialnetwork_17726.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
     <a href="https://www.instagram.com/daviidtomaas/"> 
-        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/social_instagram_1783.png" height="50" width="50" alt="aldrove98@gmail.com" />
+        <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/instagram_socialnetwork_17752.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
-    <a href="https://www.instagram.com/daviidtomaas/"> 
-        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/social_facebook_1786.png" height="50" width="50" alt="aldrove98@gmail.com" />
+    <a href="https://www.facebook.com/david.t.tomasverges"> 
+        <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/facebook__socialnetwork_17730.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
-    <a href="https://www.instagram.com/daviidtomaas/"> 
-        <img align="left" src="https://cdn.icon-icons.com/icons2/13/PNG/256/sociallinkedin_member_1782.png" height="50" width="50" alt="aldrove98@gmail.com" />
+    <a href="www.linkedin.com/in/davidtomasverges"> 
+        <img align="left" src="https://cdn.icon-icons.com/icons2/101/PNG/256/linkedin_socialnetwork_17757.png" height="50" width="50" alt="aldrove98@gmail.com" />
     </a>
 </p>
 <br><br>
